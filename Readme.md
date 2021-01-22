@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rohit-joshi-5119191a7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rohit-joshi-5119191a7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rohit-joshi-5119191a7" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rohit-joshi-5119191a7" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rohit_j63" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rohit_j63" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rohitjoshi632001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="rohitjoshi632001" height="30" width="40" /></a>
 </p>
