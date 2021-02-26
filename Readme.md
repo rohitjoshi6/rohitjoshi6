@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MERN Stack**
 
-- 👯 I’m looking to collaborate on **Web Developemnt & Data science**
+- 👯 I’m looking to collaborate on **Web Development & Data science**
 
 - 🤝 I’m looking for help with **Data Science**
 
