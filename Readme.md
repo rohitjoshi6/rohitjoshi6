@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitjoshi6&label=Profile%20views&color=0e75b6&style=flat" alt="rohitjoshi6" /> </p>
 
-- 🔭 I’m currently working on **MERN Stack**
+- 🔭 I’m currently working on **Frontend Dev**
 
 - 👯 I’m looking to collaborate on **Web Development & Data science**
 
