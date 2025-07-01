@@ -1,18 +1,63 @@
-![Banner](GH-banner.gif)
+<h1 align="center">Hi there, I'm Rohit 👋</h1>
+<h3 align="center">CS Grad Student @ USC | Ex-SWE @ Improsys | Full-Stack & GenAI Enthusiast</h3>
 
-<h3>Glad to see you here!!🙋‍♂️</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/rohit-joshi6" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat&logoColor=white">
+  </a>
+  <a href="mailto:rohitjoshi.work@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white">
+  </a>
+</p>
 
-<p>I am currently in Third Year of Computer Engineering 🎓 from Pune University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.</p>
+---
 
-![](https://komarev.com/ghpvc/?username=rohitjoshi6&color=blue)
+### 🚀 About Me
 
-<h4>Languages & Tools</h4>
+- 🎓 MS in Computer Science @ **University of Southern California (USC)**
+- 💼 Ex-Associate SWE @ **Improsys** | Interned at 3 startups building full-stack products
+- 🔭 Currently building **MockIN** – a GenAI-powered interview prep platform
+- 🧠 Interested in **GenAI**, **Backend Engineering**, and **Cloud (GCP/AWS)** systems
+- 📝 Published 2 papers on **GANs** for image colorization (IEEE)
 
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/> <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/> <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /> <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+---
 
-<h4>Connect with me:</h4>
+### 🛠️ Tech Stack
 
-<a href="https://www.linkedin.com/in/rohit-joshi-5119191a7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  <a href="https://github.com/rohitjoshi6"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://rohitjoshi63.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+- **Languages:** Python, C++, JavaScript, TypeScript, SQL
+- **Frontend:** React.js, Next.js, Tailwind, Bootstrap
+- **Backend:** Node.js, Express, Django, FastAPI
+- **Databases:** MongoDB, PostgreSQL, Firebase
+- **Cloud & DevOps:** GCP, AWS, Docker, CI/CD, GitHub Actions
+- **AI/ML:** LangChain, OpenAI API, Transformers, GANs
 
+---
 
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitjoshi6&theme=midnight-purple&show_icons=true)
+### 📌 Featured Projects
+
+- 🧠 [**MockIN**](https://github.com/rohitjoshi6/MockIN): GenAI-based coding interview simulator with real-time feedback  
+- 🗂️ Resume-to-Portfolio Converter – Upload your resume and auto-generate a personal portfolio  
+- 📊 Expense Tracker – Track categorized spending with interactive charts  
+- 🔍 Job Scraper Bot – Monitors career pages and alerts for matching intern openings
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitjoshi6&show_icons=true&theme=default&hide_title=true" alt="Rohit's GitHub Stats" />
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=rohitjoshi6" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- Connect on [LinkedIn](https://linkedin.com/in/rohit-joshi6)
+- Email: rohitjoshi.work@gmail.com  
+- Portfolio (coming soon 🚧)
+
+---
+
+⭐ *Thanks for visiting! Feel free to check out my repositories and reach out if you'd like to collaborate!*
