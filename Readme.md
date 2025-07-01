@@ -35,7 +35,7 @@
 
 ### 📌 Featured Projects
 
-- 🧠 [**MockIN**](https://github.com/rohitjoshi6/MockIN): GenAI-based coding interview simulator with real-time feedback  
+- 🧠 MockIN: GenAI-based coding interview simulator with real-time feedback  
 - 🗂️ Resume-to-Portfolio Converter – Upload your resume and auto-generate a personal portfolio  
 - 📊 Expense Tracker – Track categorized spending with interactive charts  
 - 🔍 Job Scraper Bot – Monitors career pages and alerts for matching intern openings
